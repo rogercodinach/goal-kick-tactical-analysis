@@ -1,0 +1,57 @@
+# Results & Visual Insights
+
+This section summarizes the main tactical insights extracted from the analysis
+of goal kicks performed by Bayer Leverkusen during the 2023/2024 season.
+
+The results focus on decision-making patterns, execution types, and contextual
+factors influencing goal kick outcomes.
+
+---
+
+## 1. Goal Kick Distribution by Type
+
+![Goal kick types](figures/goal_kick_types.png)
+
+**Insight:**  
+Short goal kicks are the most frequently used option, suggesting a clear tactical
+preference for structured build-up from the back rather than direct play.
+
+---
+
+## 2. Pressure Context at Goal Kick Execution
+
+![Pressure context](figures/pressure_context.png)
+
+**Insight:**  
+Most goal kicks are executed under low or medium pressure, indicating effective
+positional occupation during restarts.
+
+---
+
+## 3. Pass Length vs Tactical Outcome
+
+![Pass length](figures/pass_length_outcome.png)
+
+**Insight:**  
+Long goal kicks show higher variability in outcome quality, while short and
+medium-length executions tend to produce more stable and predictable results.
+
+---
+
+## 4. Tactical Rule Model Score Distribution
+
+![Rule score](figures/rule_score_distribution.png)
+
+**Insight:**  
+The rule-based tactical model discriminates clearly between optimal and suboptimal
+goal kick decisions, validating the WHEN–HOW framework.
+
+---
+
+## 5. Preferred Target Zones
+
+![Target zones](figures/target_zones.png)
+
+**Insight:**  
+Goal kicks are predominantly directed towards wide zones, aligning with modern
+positional play principles.
