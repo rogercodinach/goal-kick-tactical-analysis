@@ -1,0 +1,13 @@
+## Data Access
+
+This project uses StatsBomb Open Data.
+
+Raw event data is not included in this repository due to licensing restrictions.
+
+Data can be accessed at:
+https://github.com/statsbomb/open-data
+
+Relevant scope:
+- Competition: Bundesliga
+- Team: Bayer Leverkusen
+- Season: 2023/2024
